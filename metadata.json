@@ -1,0 +1,6 @@
+{
+  "name": "Mentify Student Portal",
+  "description": "Premium educational management student portal for course learning, assessments, interactive workspace, schedules, and Mentify AI study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
